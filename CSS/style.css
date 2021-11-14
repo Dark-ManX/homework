@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.body {
+}
+
+/* Header information */
+.navigation {
+    display: flex;}
+.webstudio {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #000000;}
+.web {
+    color:#2196F3}
+
+/* Main header */
+.background {
+    background: #2F303A;
+    width: 1600px;
+    height: 600px;
+padding-top: 200px;}
+.header-text {
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;}
+.order-services {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 430px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    margin-top: 40px;
+    padding-left: 32px;
+}
+.button-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+/* Our benefits */
+.benefits-list {display:flex
+}
+.list-item {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.list-header {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+/* Our works */
+.works {display: flex;}
+
+/* Our team */
+
+.our-team-header {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.our-team {display: flex}
+
+
+
+/* Footer */
+.footer {background-color: #2F303A;}
